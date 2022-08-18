@@ -1,3 +1,5 @@
+testing changes and commits
+####
 <?php
     /* Connect to the database */
     $dbcon = mysqli_connect("localhost", "snk", "password", "snk_cafe");
